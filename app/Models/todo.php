@@ -1,4 +1,8 @@
 <?php 
+    /**
+ 		Author: Eugenio - Dezembro/2020
+ 		email:eugeniojhe@gmail.com 
+**/
 	class todo extends Model{
 		private $data;
      	function __get($property)

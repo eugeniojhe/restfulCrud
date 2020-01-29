@@ -1,4 +1,9 @@
 <?php
+/**
+ Author: Eugenio - Dezembro/2020
+ email:eugeniojhe@gmail.com 
+
+**/
 require 'environment.php';
 
 global $config;

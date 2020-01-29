@@ -1,4 +1,8 @@
 <?php
+   /**
+         Author: Eugenio - Dezembro/2020
+         email:eugeniojhe@gmail.com 
+**/
 	session_start();
 	require 'config.php';
 
